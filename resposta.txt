@@ -1,0 +1,2 @@
+Um tipo genérico é uma forma de definir tipos em classes, interfaces e métodos. Dessa forma, é possível utilizar a classe genérica
+e seus métodos para diferentes tipos de objetos, sem necessidade de repetições de código, permitindo seu reaproveitamento.
